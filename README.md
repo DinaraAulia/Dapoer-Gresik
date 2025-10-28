@@ -1,6 +1,6 @@
 # 🍚 Dapoer-Gresik: Kuliner Khas Kota Santri
 
-!
+![Mockup Website Dapoer-Gresik Responsif](Macbook-Air-dinaraaulia.github.io.png)
 
 ## 🌟 Overview
 
